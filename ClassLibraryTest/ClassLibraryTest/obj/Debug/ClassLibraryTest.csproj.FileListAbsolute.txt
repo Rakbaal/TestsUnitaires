@@ -1,0 +1,13 @@
+D:\cours\2SIO-2017-2018\semestre1\POO-suite\Les Tests\les tests unitaires\TD\TD1_correction\ClassLibraryTest\ClassLibraryTest\bin\Debug\ClassLibraryTest.dll
+D:\cours\2SIO-2017-2018\semestre1\POO-suite\Les Tests\les tests unitaires\TD\TD1_correction\ClassLibraryTest\ClassLibraryTest\bin\Debug\ClassLibraryTest.pdb
+D:\cours\2SIO-2017-2018\semestre1\POO-suite\Les Tests\les tests unitaires\TD\TD1_correction\ClassLibraryTest\ClassLibraryTest\obj\Debug\ClassLibraryTest.csprojResolveAssemblyReference.cache
+D:\cours\2SIO-2017-2018\semestre1\POO-suite\Les Tests\les tests unitaires\TD\TD1_correction\ClassLibraryTest\ClassLibraryTest\obj\Debug\ClassLibraryTest.dll
+D:\cours\2SIO-2017-2018\semestre1\POO-suite\Les Tests\les tests unitaires\TD\TD1_correction\ClassLibraryTest\ClassLibraryTest\obj\Debug\ClassLibraryTest.pdb
+D:\cours\2SIO-2017-2018\semestre1\POO-suite\Les Tests\les tests unitaires\TD\TD1_correction\ClassLibraryTest\ClassLibraryTest\bin\Debug\ClassLibraryTest.XML
+C:\Users\Laptop Adler\Documents\Base_de_la_programmation\CSHARP\Bloc2\TU\ClassLibraryTest\ClassLibraryTest\bin\Debug\ClassLibraryTest.XML
+C:\Users\Laptop Adler\Documents\Base_de_la_programmation\CSHARP\Bloc2\TU\ClassLibraryTest\ClassLibraryTest\bin\Debug\ClassLibraryTest.dll
+C:\Users\Laptop Adler\Documents\Base_de_la_programmation\CSHARP\Bloc2\TU\ClassLibraryTest\ClassLibraryTest\bin\Debug\ClassLibraryTest.pdb
+C:\Users\Laptop Adler\Documents\Base_de_la_programmation\CSHARP\Bloc2\TU\ClassLibraryTest\ClassLibraryTest\obj\Debug\ClassLibraryTest.csproj.AssemblyReference.cache
+C:\Users\Laptop Adler\Documents\Base_de_la_programmation\CSHARP\Bloc2\TU\ClassLibraryTest\ClassLibraryTest\obj\Debug\ClassLibraryTest.csproj.CoreCompileInputs.cache
+C:\Users\Laptop Adler\Documents\Base_de_la_programmation\CSHARP\Bloc2\TU\ClassLibraryTest\ClassLibraryTest\obj\Debug\ClassLibraryTest.dll
+C:\Users\Laptop Adler\Documents\Base_de_la_programmation\CSHARP\Bloc2\TU\ClassLibraryTest\ClassLibraryTest\obj\Debug\ClassLibraryTest.pdb

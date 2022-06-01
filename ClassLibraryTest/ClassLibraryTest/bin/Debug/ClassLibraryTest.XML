@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ClassLibraryTest</name>
+    </assembly>
+    <members>
+        <member name="F:ClassLibraryTest.CD.noCD">
+            <summary>
+            le numér0 du CD
+            </summary>
+        </member>
+        <member name="F:ClassLibraryTest.CD.nbPistes">
+            <summary>
+            le nombre de pistes du CD
+            </summary>
+        </member>
+        <member name="M:ClassLibraryTest.CD.#ctor(System.String,System.Int32)">
+            <summary>
+            constructeur
+            </summary>
+            <param name="unNo">une chaîne</param>
+            <param name="unnbPistes">un entier</param>
+        </member>
+        <member name="F:ClassLibraryTest.Mediatheque.mesCD">
+            <summary>
+            une collection de CD
+            </summary>
+        </member>
+        <member name="M:ClassLibraryTest.Mediatheque.getMesCD">
+            <summary>
+             retourne la collection de CD de la médiathèque courante
+            </summary>
+            <returns>List de CD</returns>
+        </member>
+        <member name="M:ClassLibraryTest.Mediatheque.getNbCD">
+            <summary>
+            retourne le nb de CD de la médiathèque
+            </summary>
+            <returns>un entier</returns>
+        </member>
+        <member name="M:ClassLibraryTest.Mediatheque.#ctor">
+            <summary>
+            constructeur
+            </summary>
+        </member>
+    </members>
+</doc>

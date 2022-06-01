@@ -1,0 +1,19 @@
+D:\cours\2SIO-2017-2018\semestre1\POO-suite\Les Tests\les tests unitaires\TD\TD1_sujet\UnitTest_TD1\UnitTest_TD1\obj\Debug\UnitTest_TD1.csprojResolveAssemblyReference.cache
+D:\cours\2SIO-2017-2018\semestre1\POO-suite\Les Tests\les tests unitaires\TD\TD1_sujet\UnitTest_TD1\UnitTest_TD1\bin\Debug\UnitTest_TD1.dll
+D:\cours\2SIO-2017-2018\semestre1\POO-suite\Les Tests\les tests unitaires\TD\TD1_sujet\UnitTest_TD1\UnitTest_TD1\bin\Debug\UnitTest_TD1.pdb
+D:\cours\2SIO-2017-2018\semestre1\POO-suite\Les Tests\les tests unitaires\TD\TD1_sujet\UnitTest_TD1\UnitTest_TD1\bin\Debug\ClassLibraryTest.dll
+D:\cours\2SIO-2017-2018\semestre1\POO-suite\Les Tests\les tests unitaires\TD\TD1_sujet\UnitTest_TD1\UnitTest_TD1\bin\Debug\ClassLibraryTest.xml
+D:\cours\2SIO-2017-2018\semestre1\POO-suite\Les Tests\les tests unitaires\TD\TD1_sujet\UnitTest_TD1\UnitTest_TD1\obj\Debug\UnitTest_TD1.dll
+D:\cours\2SIO-2017-2018\semestre1\POO-suite\Les Tests\les tests unitaires\TD\TD1_sujet\UnitTest_TD1\UnitTest_TD1\obj\Debug\UnitTest_TD1.pdb
+d:\cours\2SIO-2017-2018\semestre1\POO-suite\Les Tests\les tests unitaires\TD\TD1_sujet\UnitTest_TD1\UnitTest_TD1\bin\Debug\ClassLibraryTest.pdb
+C:\Users\Laptop Adler\Documents\Base_de_la_programmation\CSHARP\Bloc2\TU\ClassLibraryTest\UnitTest_TD1\UnitTest_TD1\UnitTest_TD1\bin\Debug\UnitTest_TD1.dll
+C:\Users\Laptop Adler\Documents\Base_de_la_programmation\CSHARP\Bloc2\TU\ClassLibraryTest\UnitTest_TD1\UnitTest_TD1\UnitTest_TD1\bin\Debug\UnitTest_TD1.pdb
+C:\Users\Laptop Adler\Documents\Base_de_la_programmation\CSHARP\Bloc2\TU\ClassLibraryTest\UnitTest_TD1\UnitTest_TD1\UnitTest_TD1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Laptop Adler\Documents\Base_de_la_programmation\CSHARP\Bloc2\TU\ClassLibraryTest\UnitTest_TD1\UnitTest_TD1\UnitTest_TD1\bin\Debug\ClassLibraryTest.pdb
+C:\Users\Laptop Adler\Documents\Base_de_la_programmation\CSHARP\Bloc2\TU\ClassLibraryTest\UnitTest_TD1\UnitTest_TD1\UnitTest_TD1\bin\Debug\ClassLibraryTest.xml
+C:\Users\Laptop Adler\Documents\Base_de_la_programmation\CSHARP\Bloc2\TU\ClassLibraryTest\UnitTest_TD1\UnitTest_TD1\UnitTest_TD1\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Laptop Adler\Documents\Base_de_la_programmation\CSHARP\Bloc2\TU\ClassLibraryTest\UnitTest_TD1\UnitTest_TD1\UnitTest_TD1\obj\Debug\UnitTest_TD1.csproj.AssemblyReference.cache
+C:\Users\Laptop Adler\Documents\Base_de_la_programmation\CSHARP\Bloc2\TU\ClassLibraryTest\UnitTest_TD1\UnitTest_TD1\UnitTest_TD1\obj\Debug\UnitTest_TD1.csproj.CoreCompileInputs.cache
+C:\Users\Laptop Adler\Documents\Base_de_la_programmation\CSHARP\Bloc2\TU\ClassLibraryTest\UnitTest_TD1\UnitTest_TD1\UnitTest_TD1\obj\Debug\UnitTest_TD1.csproj.CopyComplete
+C:\Users\Laptop Adler\Documents\Base_de_la_programmation\CSHARP\Bloc2\TU\ClassLibraryTest\UnitTest_TD1\UnitTest_TD1\UnitTest_TD1\obj\Debug\UnitTest_TD1.dll
+C:\Users\Laptop Adler\Documents\Base_de_la_programmation\CSHARP\Bloc2\TU\ClassLibraryTest\UnitTest_TD1\UnitTest_TD1\UnitTest_TD1\obj\Debug\UnitTest_TD1.pdb
